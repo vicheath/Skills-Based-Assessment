@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color:#EBEBD3;
+    padding: 10px;
+}
+
+nav {
+    background-color: #555;
+    overflow: hidden;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    line-height: 1.6;
+    color: #EBEBD3;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #f0f0f0;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #555;
+    color: #EBEBD3;
+}
+
+.games {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.card-body{
+    background-color: #3C3C3B;
+    color: #3C3C3B;
+}
